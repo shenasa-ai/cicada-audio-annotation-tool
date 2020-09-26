@@ -43,6 +43,8 @@ BUTTONS_WIDTH = INT_NUMBER
 You can adjust the button sizes and change your font styles along with frame size.
 
 #### To start annotating:
+![Screenshot from app](screen_tool.png)
+
 
 ##### Run this script:
 After making sure you have ```python3.5.6``` installed and all the required packages you are good to go.
@@ -53,8 +55,8 @@ $ python cicada_tool.py
 Note: I have given ```python```and not ```python3``` for running the script because I assume you have virtual environment which has ```python3``` installed
 
 NOTE : I assume you are using Mozilla Deep Speech format for csv files and wav files.
-Then choose the csv file for annotations you have. ( wav_filename must be same with the wav file names. )
-Then choose folder which contain audio files. 
+Then by clicking Annotation_file Button, choose the csv file for annotations you have. ( wav_filename must be same with the wav file names. )
+Then by clicking audio file folders Button choose folder which contain audio files. 
 
 And It is readu to use. 
 If facing any problem feel free to create new issue.
